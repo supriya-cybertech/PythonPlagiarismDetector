@@ -7,7 +7,7 @@
 
 A powerful Python-based plagiarism detection tool that compares text files and calculates similarity scores using advanced text analysis algorithms. Ideal for educators, content creators, and researchers who need to verify document originality.
 
-![Plagiarism Detection Demo](""C:\Users\iamsu\OneDrive\Pictures\Screenshots\Screenshot\2026-01-12\231208.png"")
+![Plagiarism Detection Demo]("docs\Screenshot2026-01-12231208.png")
 
 ## ✨ Features
 
