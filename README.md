@@ -220,7 +220,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [Supriya](Supriya)
+Name - [Supriya](Supriya)
 
 Project Link: [https://github.com/supriya-cybertech/PythonPlagiarismDetector.git](https://github.com/supriya-cybertech/PythonPlagiarismDetector.git)
 
